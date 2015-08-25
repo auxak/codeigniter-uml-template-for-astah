@@ -1,7 +1,7 @@
 # codeigniter-uml-template-for-astah
 CodeIgniter UML template for astah* professional / astah* UML / astah* community.
 
-How to use template?
+# How to use template?
 Please deploy astah* template file to bellow. 
 	
 	<Installation folder of astah-XXX>\template\project
